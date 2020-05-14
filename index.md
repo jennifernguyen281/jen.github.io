@@ -64,6 +64,8 @@ Some interesting findings: <br>
 
 [**Pro-bono Consulting Project with Find Green**](https://www.findgreen.co/)
 
+
+[![Client_site](https://img.shields.io/badge/Find_Green_site-MEDIUMAQUAMARINE?)](https://www.findgreen.co/)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/file/d/1CNbanxgtwnVenp-fVciaAFUHV3sKiMde/view)
 
 <div style="text-align: justify"> "Find Green is a start-up enterprise with a mission of empowering consumers to shift businesses toward sustainable practices by demonstrating market demand. Find Green has created the first consumer-choice platform (like Yelp, TripAdvisor) that allows users to find, compare and rate businesses based on their sustainability." <br>
@@ -85,7 +87,7 @@ We created strategies to <br>
 
 <div style="text-align: justify"> 
 Our client, Gyrfalcon Ventures, wants to exploit their recently-received ownership for international rights to GAAP, a platform of cutting-edge, market-leading precision agricultural analytics technologies that can be integrated into “quad-copter” drones. However, they are not sure which market to enter, while the value of GAAP is believed to diminish rapidly due to the client’s lack of incentive to invest heavily in R&D and actively innovating competitors. <br>
-We recommended that GV should enter Australia and a course of next steps to make the most out of this opportunity in a 3-year time window. To answer the question, we analyzed 15 metrics from World Bank and other reputable sources such as Area of Average individual farm size, GPD per capita PPP, and strictness of drone regulation to rank 50 countries. 
+We recommended that GV should enter Australia and a course of next steps to make the most out of this opportunity in a 3-year time window. To answer the question, we analyzed 15 metrics from World Bank and other reputable sources to rank 50 countries. Some of the notable metrics are Area of Average individual farm size, GPD per capita PPP, and strictness of drone regulation.
 
 </div>
 <center><img src="assets/img/GV.jpg"/></center>
