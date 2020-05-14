@@ -29,12 +29,34 @@ Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regressio
   
 We developed univariate deterministic & stochastic time series models and multivariate models (transfer function models). Predictors used in TF models are `Average temperature`, `Amount of rain`, and `Average percentage of cloud cover`. The best performing model achieves a test MAPE of 14.74.
 <br>
-Some interesting findings: 1) Traffic volume is affected by the Average percentage of cloud cover; 2) Friday is the busiest day of the week; 3) Holidays are less busy than non-holidays.
+Some interesting findings: <br>
+• Traffic volume is affected by the Average percentage of cloud cover; <br>
+• Friday is the busiest day of the week; <br>
+• Holidays are less busy than non-holidays
 <br>
 Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF model
 <br>
 </div>
 <center><img src="assets/img/Final TF model forecast graph.png"/></center>
+
+---
+[**Activities and Financial Situations of US Non-profit**](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit)
+
+![Recommended System](https://img.shields.io/badge/PostgreSQL-Recommended_System-blue?logo=PostgreSQL)
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Non-profit.ipynb)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Presentation.pdf)
+
+<div> The purpose of this project is to assess the overall landscape and distribution as well as the financial situation of tax-exempt organizations in the Mid-Atlantic and Great Lakes region.
+<br> 
+We cleaned and wrangled the data set from IRS into a star schema relational database using PostgreSQL and Linux shell commands. 
+<br>
+Some interesting findings: <br>
+• The most popular activities for non-profits are Religion and Education, while the least popular is Advocacy (Weapon system, Racial integration); <br>
+• Geisinger Health Plan and Chancellor Masters & Scholars of the University of Oxford are the two not-for-profits that had the highest revenue in 2018; <br>
+• February and March are the two months with the highest number of organizations that first received exempt status
+<br>
+</div>
+<center><img src="assets/img/Star-schema.png"/></center>
 
 ---
 
