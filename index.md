@@ -8,7 +8,7 @@
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/DM-Final-Report_official.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Data%20Mining%20Project%20Presentation%20-%20JAG.pdf)
 
-<div> We want to predict house sale prices in Ames,IA using 80 housing features and to identify features that have the most influence on house sale price. The best model could be used by realtors and buyers to estimate price for a house with specific features that they want to sell/buy.
+<div style="text-align: justify"> We want to predict house sale prices in Ames,IA using 80 housing features and to identify features that have the most influence on house sale price. The best model could be used by realtors and buyers to estimate price for a house with specific features that they want to sell/buy.
 <br>
 We applied 11 regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. We conclude that the best model is the Gradient Boosting model with a test MSE of 0.0173. Four most important predictors are `Overall material and finish quality`, `Above grade (ground) living area square feet`, `Total square feet of basement area`, and `Original construction date`.
 <br>
@@ -24,7 +24,7 @@ Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regressio
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301/blob/master/Project%20Paper.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301/blob/master/Project%20Presentation.pdf)
 
-<div> The purpose of this project is to model the relationship between daily traffic volume and time as well as between daily traffic volume and different weather conditions. Study results can be used to generate strategies, such as increasing tolls on specific weekdays, to alleviate traffic jams and help reduce car emissions.
+<div style="text-align: justify"> The purpose of this project is to model the relationship between daily traffic volume and time as well as between daily traffic volume and different weather conditions. Study results can be used to generate strategies, such as increasing tolls on specific weekdays, to alleviate traffic jams and help reduce car emissions.
 <br>
   
 We developed univariate deterministic & stochastic time series models and multivariate models (transfer function models). Predictors used in TF models are `Average temperature`, `Amount of rain`, and `Average percentage of cloud cover`. The best performing model achieves a test MAPE of 14.74.
@@ -47,7 +47,7 @@ Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF 
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Non-profit.ipynb)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Presentation.pdf)
 
-<div> The purpose of this project is to assess the overall landscape and distribution as well as the financial situation of tax-exempt organizations in the Mid-Atlantic and Great Lakes region.
+<div style="text-align: justify"> The purpose of this project is to assess the overall landscape and distribution as well as the financial situation of tax-exempt organizations in the Mid-Atlantic and Great Lakes region.
 <br> 
 We cleaned and wrangled the data set from IRS into a star schema relational database using PostgreSQL and Linux shell commands. 
 <br>
@@ -63,10 +63,9 @@ Some interesting findings: <br>
 ## Consulting Projects
 
 [**Pro-bono Consulting Project with Find Green**](https://www.findgreen.co/)
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/file/d/1CNbanxgtwnVenp-fVciaAFUHV3sKiMde/view)
 
-[![Presentation](https://drive.google.com/file/d/1CNbanxgtwnVenp-fVciaAFUHV3sKiMde/view)
-
-<div> 
+<div style="text-align: justify"> 
 "Find Green is a start-up enterprise with a mission of empowering consumers to shift businesses toward sustainable practices by demonstrating market demand. Find Green has created the first consumer-choice platform (like Yelp, TripAdvisor) that allows users to find, compare and rate businesses based on their sustainability." <br>
 We created strategies to <br>
 • Increase engagement and retain current app users through data-driven incentive programs resulting from user survey analyses and secondary market research <br>
