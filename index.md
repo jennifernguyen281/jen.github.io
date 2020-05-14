@@ -7,6 +7,7 @@
 [![Models](https://img.shields.io/badge/Models-lightskyblue?logo=R)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Predicting%20House%20Price.Rmd)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/DM-Final-Report_official.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Data%20Mining%20Project%20Presentation%20-%20JAG.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA)
 
 <div style="text-align: justify"> We want to predict house sale prices in Ames,IA using 80 housing features and to identify features that have the most influence on house sale price. The best model could be used by realtors and buyers to estimate price for a house with specific features that they want to sell/buy.
 <br>
