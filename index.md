@@ -93,6 +93,8 @@ We recommended that GV should enter Australia and a course of next steps to make
 </div>
 <center><img src="assets/img/GV.jpg"/></center>
 
+---
+<center>© 2020 Thuy (Jennifer) Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
 
 
