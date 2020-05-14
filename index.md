@@ -4,7 +4,7 @@
 
 [**Best Model to Predict House Prices in Ames, Iowa**](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA)
 
-[![Models](https://img.shields.io/badge/R-Models-lightskyblue?logo=R)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Predicting%20House%20Price.Rmd)
+[![Models](https://img.shields.io/badge/Models-lightskyblue?logo=R)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Predicting%20House%20Price.Rmd)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/DM-Final-Report_official.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA/blob/master/Data%20Mining%20Project%20Presentation%20-%20JAG.pdf)
 
@@ -15,3 +15,4 @@ We applied 11 regression algorithms from linear to non-linear techniques, from p
 Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regression Tree, Random Forest, Bagging, Boosting
 
 </div>
+<center><img src="assets/img/House-Price.jpg"/></center>
