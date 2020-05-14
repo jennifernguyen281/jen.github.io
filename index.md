@@ -77,7 +77,7 @@ We created strategies to <br>
 
 
 </div>
-<center><img src="assets/img/image.jpg"/></center>
+<center><img src="assets/img/image(1).jpg"/></center>
 
 ---
 [**Market-entry Case for Gyrfalcon Ventures - Precision Analytics in Agriculture**](https://github.com/jennifernguyen281/Market-Entry-Case-for-GV) 
@@ -91,7 +91,7 @@ Our client, Gyrfalcon Ventures, wants to exploit their recently-received ownersh
 We recommended that GV should enter Australia and a course of next steps to make the most out of this opportunity in a 3-year time window. To answer the question, we analyzed 15 metrics from World Bank and other reputable sources to rank 50 countries. Some of the notable metrics are Area of Average individual farm size, GPD per capita PPP, and strictness of drone regulation.
 
 </div>
-<center><img src="assets/img/GV.jpg"/></center>
+<center><img src="assets/img/GV-off.jpg"/></center>
 
 ---
 <center>© 2020 Thuy (Jennifer) Nguyen. Powered by Jekyll and the Minimal Theme.</center>
