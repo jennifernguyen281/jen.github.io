@@ -63,6 +63,7 @@ Some interesting findings: <br>
 ## Consulting Projects
 
 [**Pro-bono Consulting Project with Find Green**](https://www.findgreen.co/)
+
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/file/d/1CNbanxgtwnVenp-fVciaAFUHV3sKiMde/view)
 
 <div style="text-align: justify"> "Find Green is a start-up enterprise with a mission of empowering consumers to shift businesses toward sustainable practices by demonstrating market demand. Find Green has created the first consumer-choice platform (like Yelp, TripAdvisor) that allows users to find, compare and rate businesses based on their sustainability." <br>
