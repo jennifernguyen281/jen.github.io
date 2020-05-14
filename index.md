@@ -77,7 +77,7 @@ We created strategies to <br>
 
 
 </div>
-<center><img src="assets/img/find-green-app.png"/></center>
+<center><img src="assets/img/image.jpg"/></center>
 
 ---
 [**Market-entry Case for Gyrfalcon Ventures - Precision Analytics in Agriculture**](https://github.com/jennifernguyen281/Market-Entry-Case-for-GV) 
