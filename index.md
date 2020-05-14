@@ -88,7 +88,7 @@ Our client, Gyrfalcon Ventures, wants to exploit their recently-received ownersh
 We recommended that GV should enter Australia and a course of next steps to make the most out of this opportunity in a 3-year time window. To answer the question, we analyzed 15 metrics from World Bank and other reputable sources such as Area of Average individual farm size, GPD per capita PPP, and strictness of drone regulation to rank 50 countries. 
 
 </div>
-<center><img src="assets/img/find-green-app.png"/></center>
+<center><img src="assets/img/GV.jpg"/></center>
 
 
 
