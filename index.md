@@ -16,7 +16,7 @@ We applied 11 regression algorithms from linear to non-linear techniques, from p
 Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regression Tree, Random Forest, Bagging, Boosting
 <br>
 </div>
-<center><img src="assets/img/House-Price.jpg"/></center>
+<center><img src="assets/img/House-price-2.jpg.jpg"/></center>
 
 ---
 [**Forecast I-94 Westbound Traffic Volume for MN DoT ATR Station 301**](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301)
