@@ -20,7 +20,7 @@ Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regressio
 ---
 [**Forecast I-94 Westbound Traffic Volume for MN DoT ATR Station 301**](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301)
 
-[![Language & Tool](https://img.shields.io/badge/SAS-Language_&Tool-navy?logo=SAS)]
+![Language & Tool](https://img.shields.io/badge/SAS-Language_&Tool-navy?logo=SAS)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301/blob/master/Project%20Paper.pdf)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Forecast-Daily-Interstate-94-Westbound-Traffic-Volume-for-MN-DoT-ATR-Station-301/blob/master/Project%20Presentation.pdf)
 
