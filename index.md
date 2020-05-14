@@ -34,7 +34,7 @@ Some interesting findings: 1) Traffic volume is affected by the Average percenta
 Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF model
 <br>
 </div>
-<center><img src="assets/img/House-Price.jpg"/></center>
+<center><img src="assets/img/Final TF model forecast graph.png"/></center>
 
 ---
 
