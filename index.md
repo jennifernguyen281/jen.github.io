@@ -10,7 +10,7 @@
 
 <div style="text-align: justify"> We want to predict house sale prices in Ames,IA using 80 housing features and to identify features that have the most influence on house sale price. The best model could be used by realtors and buyers to estimate price for a house with specific features that they want to sell/buy.
 <br>
-We applied 11 regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. We conclude that the best model is the Gradient Boosting model with a test MSE of 0.0173. Four most important predictors are `Overall material and finish quality`, `Above grade (ground) living area square feet`, `Total square feet of basement area`, and `Original construction date`.
+We applied 11 regression algorithms from linear to non-linear techniques, from parametric to non-parametric techniques. We conclude that the best model is the Gradient Boosting model with a test MSE of 0.0173. Four most important predictors are Overall material and finish quality, Above grade (ground) living area square feet, Total square feet of basement area, and Original construction date.
 <br>
 Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regression Tree, Random Forest, Bagging, Boosting
 <br>
@@ -27,7 +27,7 @@ Models: Best subset selection, LASSO, Ridge Regression, PCR, PLS, KNN, Regressio
 <div style="text-align: justify"> The purpose of this project is to model the relationship between daily traffic volume and time as well as between daily traffic volume and different weather conditions. Study results can be used to generate strategies, such as increasing tolls on specific weekdays, to alleviate traffic jams and help reduce car emissions.
 <br>
   
-We developed univariate deterministic & stochastic time series models and multivariate models (transfer function models). Predictors used in TF models are `Average temperature`, `Amount of rain`, and `Average percentage of cloud cover`. The best performing model achieves a test MAPE of 14.74.
+We developed univariate deterministic & stochastic time series models and multivariate models (transfer function models). Predictors used in TF models are Average temperature, Amount of rain, and Average percentage of cloud cover. The best performing model achieves a test MAPE of 14.74.
 <br>
 Some interesting findings: <br>
 • Traffic volume is affected by the Average percentage of cloud cover; <br>
@@ -75,6 +75,21 @@ We created strategies to <br>
 
 </div>
 <center><img src="assets/img/find-green-app.png"/></center>
+
+---
+[**Market-entry Case for Gyrfalcon Ventures - Precision Analytics in Agriculture**](https://github.com/jennifernguyen281/Market-Entry-Case-for-GV) 
+
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://drive.google.com/file/d/18ORNgSRPGVdeJAJO22muEvYX3XhanCsH/view?usp=sharing)
+[![Model](https://img.shields.io/badge/Model-lightskyblue?logo=R)](https://github.com/jennifernguyen281/Market-Entry-Case-for-GV/blob/master/Data_analytics_PERF.R)
+
+
+<div style="text-align: justify"> 
+Our client, Gyrfalcon Ventures, wants to exploit their recently-received ownership for international rights to GAAP, a platform of cutting-edge, market-leading precision agricultural analytics technologies that can be integrated into “quad-copter” drones. However, they are not sure which market to enter, while the value of GAAP is believed to diminish rapidly due to the client’s lack of incentive to invest heavily in R&D and actively innovating competitors. <br>
+We recommended that GV should enter Australia and a course of next steps to make the most out of this opportunity in a 3-year time window. To answer the question, we analyzed 15 metrics from World Bank and other reputable sources such as Area of Average individual farm size, GPD per capita PPP, and strictness of drone regulation to rank 50 countries. 
+
+</div>
+<center><img src="assets/img/find-green-app.png"/></center>
+
 
 
 
