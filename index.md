@@ -1,3 +1,6 @@
+# About Me
+<center><img src="assets/img/Jennifer-Nguyen-Career-Timeline(1).png"/></center>
+
 # Portfolio
 ---
 ## Data Analytics 
