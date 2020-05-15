@@ -41,7 +41,7 @@ Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF 
 <center><img src="assets/img/Final TF model forecast graph.png"/></center>
 
 ---
-[**Activities and Financial Situations of US Non-profit**](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit)
+[**Activities and Financial Situations of US Tax-exempt Organizations**](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit)
 
 ![Recommended System](https://img.shields.io/badge/PostgreSQL-Recommended_System-blue?logo=PostgreSQL)
 ![Recommended Environment](https://img.shields.io/badge/AWS-Recommended_Environment-blue?logo=AWS)
