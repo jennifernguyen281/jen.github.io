@@ -48,9 +48,10 @@ Models: Seasonal Dummies, Cyclical trend model, Error model, seasonal ARIMA, TF 
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Non-profit.ipynb)
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/jennifernguyen281/Activities-and-Financial-Situations-of-US-Non-profit/blob/master/Presentation.pdf)
 
-<div style="text-align: justify"> The purpose of this project is to assess the overall landscape and distribution as well as the financial situation of tax-exempt organizations in the Mid-Atlantic and Great Lakes region.
+<div style="text-align: justify"> This project will help people with an interest in either working at or researching non-profits better understand the overall landscape of such organizations in the Mid-Atlantic and Great Lakes region. They can use it as a directory to search for organizations that match their interests regarding sizes, locations, and organization’s mission focuses, for example.<br>
+We also want to assess the financial situations of these organizations regarding profitability(income) and revenue, to see whether US charities & nonprofits are doing well financially. Which segments are doing well? Which segments are losing money? Financials may disclose the quality of management and the preferences of American donors.
 <br> 
-We cleaned and wrangled the data set from IRS into a star schema relational database using PostgreSQL and Linux shell commands. 
+We cleaned and wrangled a data set with 640k+ rows from IRS into a star schema relational database using PostgreSQL and Linux shell commands. 
 <br>
 Some interesting findings: <br>
 • The most popular activities for non-profits are Religion and Education, while the least popular is Advocacy (Weapon system, Racial integration); <br>
